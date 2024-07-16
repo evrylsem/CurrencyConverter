@@ -17,9 +17,11 @@ A simple Windows Forms application to convert currencies using live exchange rat
 <pre>
   git clone https://github.com/evrylsem/CurrencyConverter.git
 </pre>
-#### 2. Open CurrencyConverter > Debug > net8.0-windows folder
-#### 3. Open the application named Currency.exe
+#### 2. Open `CurrencyConverter` > `Debug` > `net8.0-windows` folder
+#### 3. Open the application named `Currency.exe`
 ![image](https://github.com/user-attachments/assets/9473bec9-d8de-47ff-81b6-ddb52cfef79b)
+
+#### To see the source code, open `Form1.cs` file
 
 ## Code Review
 ### Loading Currencies
